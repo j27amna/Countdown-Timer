@@ -1,0 +1,19 @@
+{
+  "name": "count-down-timer_am.jay",
+  "version": "1.0.0",
+  "description": "Check this cli based countdown timer cause time won't wait for you",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
